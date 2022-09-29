@@ -1,4 +1,4 @@
-<h1 align="center">🤖 Hi there, we are a Danish/German developement Team! 🤖</h1>
+<h1 align="center">🤖 Hi there, we are a Danish/German developement Team 🤖</h1>
 
 <h3 align="center">⚡ Our Skills... ⚡</h3>
 <h3 align="center">
