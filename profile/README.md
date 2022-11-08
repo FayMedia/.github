@@ -20,7 +20,7 @@
 
 <h3 align="center">🤔 About us... 🤔</h3>
 <h5 align="center">
-Hi, we are three young Germans who are attending Danish high school. 
+Hi, we are young Germans who are attending Danish high school. 
 <br></br>
 Our goal is to help other developers with our products by making their everyday life easier.
 <br></br>
