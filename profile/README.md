@@ -34,5 +34,3 @@ In the future we plan to build a website that will have nice and cool features.
 <br></br>
 Thank you for choosing Fay-Media!
 </h5>
-  
-<h6 align="center"> Fay-Media readme by PhilippG (https://github.com/daedalusdontknow)</h6>
